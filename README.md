@@ -34,15 +34,3 @@ public class SelfIntroduction {
 ![Java](https://img.shields.io/badge/Java-11-red)
 ![Ruby](https://img.shields.io/badge/Ruby-3.0-red)
 ![image](https://github.com/user-attachments/assets/6440314e-c29c-430b-aab6-05a21e7cadf3)
-
-public class SelfIntroduction {
-    public static void main(String[] args) {
-        System.out.println("이름: 이경현 (LI JING XIAN)");
-        System.out.println("학번: 202430220");
-        System.out.println("전공: IT융합학부 컴퓨터소프트웨어전공");
-        System.out.println("국적: 중국");
-        System.out.println("안녕하세요! 저는 중국에서 온 유학생입니다.");
-        System.out.println("프로그래밍과 소프트웨어 개발에 관심이 많으며, Java를 배우고 있습니다.");
-        System.out.println("잘 부탁드립니다!");
-    }
-}
